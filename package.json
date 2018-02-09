@@ -1,0 +1,19 @@
+{
+  "name": "hello-masato48",
+  "version": "1.0.0",
+  "description": "hello masato48",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masato48/hello-masato.git"
+  },
+  "author": "masato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masato48/hello-masato/issues"
+  },
+  "homepage": "https://github.com/masato48/hello-masato#readme"
+}
